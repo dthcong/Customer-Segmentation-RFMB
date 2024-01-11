@@ -1,4 +1,4 @@
-# Customer-Segmentation-by-RFMB
+# Customer Segmentation by RFMB
 
 ![](https://user-images.githubusercontent.com/96748659/155264097-23d03566-2c27-4aff-805e-731dfb595cd2.png)
 
