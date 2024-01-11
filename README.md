@@ -37,7 +37,7 @@ Các file dataraw được sử dụng trong dataset này gồm có:
 Trong bài sử dụng Power Query để thực hiện xử lý sơ bộ dữ liệu và load dữ liệu vào model.
 Sau đó là Microsoft Power BI tạo model/schema, viết DAX và vẽ dashboard để thực hiện Descriptive Analysis.
 
-## Sample Result
+## Sample Visualization
 
 1. Tổng quan tình hình hoạt động Ngân hàng:
 
@@ -50,3 +50,6 @@ Sau đó là Microsoft Power BI tạo model/schema, viết DAX và vẽ dashboar
 3. Chi tiết các Nhóm KH:
 
    ![image](https://github.com/dthcong/Customer-Segmentation-by-RFMB/assets/156085700/d2efbf8b-4100-4586-8a1b-ba8b74ae2d99)
+
+## Result
+Xem chi tiết tại ➡️
