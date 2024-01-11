@@ -6,7 +6,7 @@
 
 Trong project này tiến hành phân nhóm khách hàng (KH) của một ngân hàng thương mại dựa vào dữ liệu giao dịch và thông tin cá nhân KH.
 
-Phương pháp thực hiện là RFMB:
+Phương pháp thực hiện là RFMB - tính tổng điểm dựa trên 4 yếu tố chính:
 - Recency (R): chênh lệch thời gian tính bằng ngày giữa ngày giao dịch cuối cùng của KH đến hôm sau ngày giao dịch cuối cùng trong data.
 - Frequency (F): Tổng số lần giao dịch của KH.
 - Monetary (M): Tổng số tiền giao dịch của KH.
