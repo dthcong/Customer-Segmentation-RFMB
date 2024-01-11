@@ -52,4 +52,5 @@ Sau đó là Microsoft Power BI tạo model/schema, viết DAX và vẽ dashboar
    ![image](https://github.com/dthcong/Customer-Segmentation-by-RFMB/assets/156085700/d2efbf8b-4100-4586-8a1b-ba8b74ae2d99)
 
 ## Result
-Xem chi tiết tại ➡️
+- [File BPI dashboard](https://onedrive.live.com/?authkey=%21ACS6ieU16%2DwSoDg&cid=3F7295C15D4D67F4&id=3F7295C15D4D67F4%21109&parId=3F7295C15D4D67F4%21108&o=OneUp)
+- [Insight](https://github.com/dthcong/Customer-Segmentation-RFMB/blob/main/Customer%20Segmentation%20RFMB%20-%20Insight.pdf)
