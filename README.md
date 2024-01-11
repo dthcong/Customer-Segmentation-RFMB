@@ -34,8 +34,8 @@ Các file dataraw được sử dụng trong dataset này gồm có:
 
 ## Tool
 
-Trong bài sử dụng Power Query để thực hiện xử lý sơ bộ dữ liệu và load dữ liệu vào model.
-Sau đó là Microsoft Power BI tạo model/schema, viết DAX và vẽ dashboard để thực hiện Descriptive Analysis.
+- Power Query: thực hiện xử lý sơ bộ dữ liệu và load dữ liệu vào model.
+- Microsoft Power BI: tạo model/schema, viết DAX và vẽ dashboard.
 
 ## Sample Visualization
 
