@@ -52,5 +52,6 @@ Các file dataraw được sử dụng trong dataset này gồm có:
    ![image](https://github.com/dthcong/Customer-Segmentation-by-RFMB/assets/156085700/d2efbf8b-4100-4586-8a1b-ba8b74ae2d99)
 
 ## Result
-- [File BPI dashboard](https://onedrive.live.com/?authkey=%21ACS6ieU16%2DwSoDg&cid=3F7295C15D4D67F4&id=3F7295C15D4D67F4%21109&parId=3F7295C15D4D67F4%21108&o=OneUp)
+
+- [Dashboard](https://www.novypro.com/project/customer-segmentation-12)
 - [Insight](https://github.com/dthcong/Customer-Segmentation-RFMB/blob/main/Customer%20Segmentation%20RFMB%20-%20Insight.pdf)
